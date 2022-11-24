@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    background-color: red;
+    /* margin para crear un espacio entre los elementos q rodean la caja */
+    margin-bottom: 80px ;
+    
+    /*padding para crear mas espacio al relleno de la caja*/
+    padding: 30px;
+    text-align: center;
+    border: 15px solid black;
+
+
+    
+    
+}
+h2{
+    color: white;
+    background-color: red;
+    /* margin para crear un espacio entre los elementos q rodean la caja */
+    margin:40px 50px 20px 50px ;
+    border: 15px solid black;
+    text-align: center; 
+    margin: auto 100px;
+    /*padding para crear mas espacio al relleno de la caja*/
+    padding: 20px;
+}
+body{
+    background-color: powderblue
+}
